@@ -1,5 +1,5 @@
 window.obj = {
     get callFunction() {
-      console.log(document.cookie);
+      console.log('abcd1234');
     }
   };
